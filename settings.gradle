@@ -1,0 +1,5 @@
+rootProject.name = 'fc3_catalogue_admin'
+include 'domain'
+include 'application'
+include 'infrastructure'
+

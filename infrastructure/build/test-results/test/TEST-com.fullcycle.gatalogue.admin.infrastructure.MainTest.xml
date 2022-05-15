@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fullcycle.gatalogue.admin.infrastructure.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-15T22:16:14" hostname="Perycles-Windows" time="0.012">
+  <properties/>
+  <testcase name="testMain()" classname="com.fullcycle.gatalogue.admin.infrastructure.MainTest" time="0.012"/>
+  <system-out><![CDATA[Hello World
+com.fullcycle.catalogue.admin.domain.category.Category@5cedf5e5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
